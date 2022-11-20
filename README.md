@@ -20,7 +20,7 @@ composer require jacksleight/statamic-fie
 - [ ] Decide name of action (Edit Image, Adjust, Manipulate, something else?)
     - Avoid confusion with existing Edit action
 - [ ] Should the source image URL be cache busted?
-- [ ] Does it work with S3 etc.?
+- [ ] Does it work with S3 etc.?, I think so but check
 - [ ] Aviod hacks that use the Actions API in unofifical ways
     - Storing the action item for use in `fieldItems`
     - Auto-submitting the action dialog/confirmation
