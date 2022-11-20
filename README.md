@@ -2,6 +2,8 @@
 
 An *experimental* [Filerobot Image Editor (FIE)](https://scaleflex.github.io/filerobot-image-editor/) integration for Statamic.
 
+https://user-images.githubusercontent.com/126740/202912999-50887270-ad8d-4f02-89b1-28a520d120ad.mp4
+
 ## Installation
 
 ```bash
