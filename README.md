@@ -10,10 +10,11 @@ composer require jacksleight/statamic-fie
 
 ## Todo & Known Issues
 
-- [ ] Check user permissions, either exisitng or new
+- [ ] Check user permissions, either existing or new
 - [ ] Colour palette z-index stacking issue
-- [ ] Disable 'Replace Original' if unsupported format (GIF)
+- [ ] Hide "Replace Original" if unsupported format (GIF)
 - [ ] Abilty to configure editor tabs, options etc.
+- [ ] Clarify how saving works (no overwrite) in save dialog
 - [ ] Decide name of action (Edit Image, Adjust, Manipulate, something else?)
     - Avoid confusion with existing Edit action
 - [ ] Should the source image URL be cache busted?
