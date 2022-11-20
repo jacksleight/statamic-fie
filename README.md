@@ -1,6 +1,6 @@
 # Statamic FIE
 
-⚠️ An **experimental** Filerobot Image Editor (FIE) integration for Statamic.
+An *experimental* [Filerobot Image Editor (FIE)](https://scaleflex.github.io/filerobot-image-editor/) integration for Statamic.
 
 ## Installation
 
