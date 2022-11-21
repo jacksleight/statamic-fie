@@ -17,8 +17,9 @@ composer require jacksleight/statamic-fie
 - [ ] Colour palette z-index stacking issue
 - [ ] Hide "Replace Original" if unsupported format (GIF)
 - [ ] Clarify how saving works (no overwrite) in save dialog
-- [ ] Decide name of action (Edit Image, Modify, Adjust, Manipulate, something else?)
+- [ ] Review name of action (Edit Image, Modify, Adjust, Manipulate, something else?)
     - Avoid confusion with existing Edit action
+- [ ] Review save options (replacement vs reupload etc.)
 - [ ] Should the source image URL be cache busted?
 - [ ] Does it work with S3 etc.?, I think so but check
 - [ ] Aviod hacks that use the Actions API in unofifical ways
