@@ -23,5 +23,5 @@ composer require jacksleight/statamic-fie
 - [ ] Should the source image URL be cache busted?
 - [ ] Does it work with S3 etc.?, I think so but check
 - [ ] Aviod hacks that use the Actions API in unofifical ways
-    - Storing the action item for use in `fieldItems`
+    - Storing the action item for use in `fieldItems` (can be resolved since 3.4)
     - Auto-submitting the action dialog/confirmation
