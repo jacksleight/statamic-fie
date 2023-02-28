@@ -18,10 +18,10 @@ composer require jacksleight/statamic-fie
 - [ ] Hide "Replace Original" if unsupported format (GIF)
 - [ ] Clarify how saving works (no overwrite) in save dialog
 - [ ] Review name of action (Edit Image, Modify, Adjust, Manipulate, something else?)
-    [ ] Avoid confusion with existing Edit action
+    - [ ] Avoid confusion with existing Edit action
 - [ ] Review save options (replacement vs reupload etc.)
 - [ ] Should the source image URL be cache busted?
 - [ ] Does it work with S3 etc.?, I think so but check
 - [ ] Aviod hacks that use the Actions API in unofifical ways
-    [x] Storing the action item for use in `fieldItems` (solved since 3.4)
-    [ ] Auto-submitting the action dialog/confirmation
+    - [ ] Storing the action item for use in `fieldItems` (solved since 3.4)
+    - [ ] Auto-submitting the action dialog/confirmation
